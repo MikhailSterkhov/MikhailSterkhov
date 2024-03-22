@@ -12,7 +12,7 @@
 
 ---
 
-> <img src="https://img.shields.io/badge/Who is me-blue?style=plastic" /><br>
+> <img src="https://img.shields.io/badge/What is this-blue?style=plastic" /><br>
 > Here I publish my personal pet projects, test tasks for companies and 
 > <br>commercial developments that I am still actively working on.
 
