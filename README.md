@@ -29,7 +29,7 @@
 > <br>social networks, in which I have created channels and actively maintain them to the best of my ability:
 > <br>
 > <br>
-> <a href="https://discord.gg/SWZ2cPGnBT">
+> <a href="https://discord.gg/GmT9pUy8af">
 >     <img src="https://img.shields.io/badge/Discord (xxcoldinme projects)-blue?style=for-the-badge&logo=discord&logoColor=white" />
 > </a>
 > <br>
