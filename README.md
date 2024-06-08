@@ -5,6 +5,7 @@
 <a href="https://github.com/itzvenskiy">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhailsterkhov&layout=donut&title_color=fff&text_color=fff&icon_color=ffff00&bg_color=1a1c1f" />
 </a>
+<br>
 
 <img src="https://img.shields.io/badge/Java-red?style=flat" />
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat" />
